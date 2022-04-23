@@ -25,19 +25,24 @@ You wanna contribute to Factory? Here's a quick outline, More in the Contributio
 - Share the link here.
 
 ### The Mid-level Magician
-- Look online for any developer challenge, for example, 100-days-of-something
-- Choose any of the day project
+- Head over to [Ideasai.com](https://ideasai.com/) or [App Idea Generator](https://appideagenerator.com/)
+- If you find any Ideas you like
 - Go all out and do your research
 - Design the project
 - Share the link here.
 
 
 ## Usage: Dev Humans
-- Shoes
-- Cutleries
+- Pending
 
 <hr />
 
 ## Stash
-[Images and permalink to files containig detailsl... Hmmmmmm]
 
+### 1. Todo List
+
+Figma link: https://figma.com/file/some-slug
+
+twitter: @kohasummons 
+
+![sss](./thsNp.jpg)
